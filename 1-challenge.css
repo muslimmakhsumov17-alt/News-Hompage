@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif sans-serif;
+}
+body{
+    margin-left: 200px;
+}
+header h1{
+    font-size: 50px;
+    font-family: "Inter";
+}
+a{
+    text-decoration: 0;
+    color: #ccc;
+}
+li{
+    margin-top: -40px;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    margin-top: -40px;
+    list-style: none;
+    margin-left: 62%;
+}
+section img{
+    width: 800px;
+    height: 500px;
+}
+button{
+    color: black;
+    background-color:rgb(255, 60, 0) ;
+    padding: 10px 15px;
+    border: 0;
+    margin-left: 15 0px;
+}
+main h1{
+    color: black;
+    font-size: 50px;
+}
+article img{
+    width: 100px;
+    height: 120px;
+}
+.artikl-1{
+    margin-left: 120px;
+    margin-top:-165px ;
+}
+.rasm-2{
+    margin-left: 350px;
+    margin-top: -165px;
+}
+.artikl-2{
+    margin-left: 500px;
+    margin-top: -175px;
+}
+.artikl-3{
+    margin-left: 1000px;
+    margin-top: -175px;
+}
+.rasm-3{
+    margin-left: 850px;
+    margin-top: -165px;
+}
+.basic_article{
+    margin-top: -15px;
+}
+.s_basic_aarticle{
+    margin-top: -15px;
+}
+footer h1 {
+    color:rgb(255, 60, 0);
+    margin-top: 10px;
+}
+.paragraf {
+    margin-left: 350px;
+    margin-top: -190px;
+    color: #ccc;
+}
+main p{
+    font-size: 20px;
+}
+aside{
+    padding: 10px;
+    margin-left: 64%;
+    margin-top: -54%;
+    background-color:black;
+    color: white;
+    width: 400px;
+    height: 700px;
+    font-size: 20px;
+}
+aside h2{
+    color: gold;
+    font-size: 50px;
+}
+h4{
+    color: white;
+}
+aside p{
+    color: #ccc;
+}
+footer{
+    margin-top: 100px;
+}
+hr{
+    width: 90%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+a:hover{
+    color: orange;
+}
